@@ -22,7 +22,7 @@
 </template>
 
 <script>
-const url = "http://localhost:5000/api/names/";
+const url = "http://192.168.56.3:5000/api/names/";
 const axios = require("axios");
 
 export default {
