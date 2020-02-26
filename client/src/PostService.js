@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const url = 'http://localhost:5000/api/names/'
+//const url = 'http://localhost:5000/api/names/'
+const url = 'http://192.168.56.2:5000/api/names/'
 
 class PostService{
 
